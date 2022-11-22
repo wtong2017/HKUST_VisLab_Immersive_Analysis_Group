@@ -15,12 +15,15 @@ summary: >-
 
   We first obtain the buildings’ BIM model to implement the digital twin. Then, we adopt automatic (e.g., sensors) and manual (e.g., self-report) ways to track students’ activities with permission. Next, we develop a mobile AR app that allows students to plant and observe the trees on the digital campus.
 draft: false
-featured: true
-authors: []
+featured: false
+authors:
+  - Jason Wong
+  - Linping Yuan
+  - Wai Tong
 external_link: https://jasonwong.vision/projects/vispie/
 image:
   filename: vispie.png
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 ---
 ViePIE aims to promote a sustainable lifestyle with AR gamification and digital twin. We enable individuals to perceive the environmental implications of their measurable activities, immerse themselves in the climate change impacts, and empower both individuals and organizations with climate-smart choices.
