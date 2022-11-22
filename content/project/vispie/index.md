@@ -21,6 +21,6 @@ external_link: https://jasonwong.vision/projects/vispie/
 image:
   filename: vispie.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 ViePIE aims to promote a sustainable lifestyle with AR gamification and digital twin. We enable individuals to perceive the environmental implications of their measurable activities, immerse themselves in the climate change impacts, and empower both individuals and organizations with climate-smart choices.
