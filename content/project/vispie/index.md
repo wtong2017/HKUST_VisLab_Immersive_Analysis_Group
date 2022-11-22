@@ -17,9 +17,9 @@ summary: >-
 draft: false
 featured: false
 authors:
-  - Jason Wong
-  - Linping Yuan
-  - Wai Tong
+  - jasonwong
+  - linpingyuan
+  - waitong
 external_link: https://jasonwong.vision/projects/vispie/
 image:
   filename: vispie.png
